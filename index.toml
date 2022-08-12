@@ -1,0 +1,191 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
+metafile = true
+
+[[files]]
+file = "mods/allium-peripherals.pw.toml"
+hash = "42ef2f307907a3c2cd7dc96573e076a31a858d39647eda68f46573f10943b8ab"
+metafile = true
+
+[[files]]
+file = "mods/betterloadingscreen.pw.toml"
+hash = "0411f0d70bd84a1b6cb8bb2afe36c9efac88493ef9c142511094a7a8b3995055"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "f781e21b5f5ac35b6b9be2a8219dcce459ad7564581c2f9a1c83059b48c82efc"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "1fb3cbb8ef71a59fbbc722afff7f4f9a9bbaa45838caf0a99f1ed4fce96a4c6c"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "7a316a592fc9ebcaec8f2af6c9a8a282d2478d049391d77099cb66c016ecdcc8"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits-for-fabric.pw.toml"
+hash = "b9cca242f25d9894525c2236e2831595eade2fd8c334c0ab7837fd7b506abf9d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "b508bb6b509b96b2e297e94ca2ce365623730b938f32c74d49c574a7ef1ecb24"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "d506aff4966cf0049497f348aecb880cd3dbade497746c84a91f6b3b133c47ae"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
+metafile = true
+
+[[files]]
+file = "mods/fabric-chisel.pw.toml"
+hash = "7cc2807ba2777fa8303ee16393523a8767fa7f9c49fb71a094e62c1a439a25fd"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "0a4db601cda940edb820c7fcfb87e3461075e809e8f6dc8ef33842c2d6403d32"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "a226f8fd112cc69f1aa70039a657f76060cd8a71b5c6f1e47b282bbf26f35063"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "4c40d405f05b943052074d81850825d234288774ac455be46d2f50338411c86e"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "2d3c10d8c134ca9e5a24b0aff53bdf17e8702b8b8b5b997a0b8a542e0361587d"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "158c40f09b2ed4fe14f5f2925751796fe11f6baee7e1ac7f35931ad831631a3d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "ebbb66ec2c5d8ec1cbccccc9d93ed170409a0f4abaefda5dac0b921159ce5dac"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "65bf63f09b7a2958e11bc50b48f09c619acc33b9f22d59803566b5196254cdf2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "f19df36997ae32ae994f423cbf755b66ca440f88153811e4562eab8af80867b8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "9fa253c556fc791a6d5974c7696632e9b353bdbc35998c2ee061c7cb35e63037"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "756a4c12a9e41b726dd6f332b7448466d185a31d7e336f2cbc3fa48f4d72de3b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "b7a8ed96d5a726b7e49166e9e236050abb381100bf2e4d000d37088e56ef3871"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "ca1411ddd60cfb821ed8bb7c9dda1d686d84147f01bafa9f35cc35b41115c1e3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "efae4449e802f00e3dd79446adcb305d43f3f2471e48ebde9e08ef531d95b434"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "f5c5039ecca5f696933623268db481026e44160cb5eee6de3b2485d06e08e829"
+metafile = true
+
+[[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "f6ffa5ba4f78f500531d3ab579eba9f3e1c3a5e56c2d59df897d94e0e5aeff03"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "2056e66a16b6e3bbef4e56eaeddc744e92acee372ebd8a3c7c90750170e61665"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "e82e252278eb697ed7620218aeb99ce62ee68987414ee43cba500d8452c85120"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "f62645a1c84a32aafe4c60d966c3b23cc7460f846b312b3b8c2e7a0bddf3e186"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
+metafile = true
