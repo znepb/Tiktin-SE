@@ -11,6 +11,11 @@ hash = "42ef2f307907a3c2cd7dc96573e076a31a858d39647eda68f46573f10943b8ab"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
 file = "mods/betterloadingscreen.pw.toml"
 hash = "0411f0d70bd84a1b6cb8bb2afe36c9efac88493ef9c142511094a7a8b3995055"
 metafile = true
