@@ -171,11 +171,6 @@ hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
-hash = "2056e66a16b6e3bbef4e56eaeddc744e92acee372ebd8a3c7c90750170e61665"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "e82e252278eb697ed7620218aeb99ce62ee68987414ee43cba500d8452c85120"
 metafile = true
