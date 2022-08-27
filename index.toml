@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "7a316a592fc9ebcaec8f2af6c9a8a282d2478d049391d77099cb66c016ecdcc8"
+hash = "b300eda9e302fd0710735da40a5f368c14db803f2a34de364ba357298b5e3dcd"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
@@ -78,11 +78,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-weathering.pw.toml"
 hash = "a226f8fd112cc69f1aa70039a657f76060cd8a71b5c6f1e47b282bbf26f35063"
-metafile = true
-
-[[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "4c40d405f05b943052074d81850825d234288774ac455be46d2f50338411c86e"
 metafile = true
 
 [[files]]
@@ -157,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "f5c5039ecca5f696933623268db481026e44160cb5eee6de3b2485d06e08e829"
+hash = "b3a5f6bcab7382577050322f78a606f06e2011bf69a9baa179c687317368d1ae"
 metafile = true
 
 [[files]]
@@ -172,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "e82e252278eb697ed7620218aeb99ce62ee68987414ee43cba500d8452c85120"
+hash = "2ece972fd1306a38ca278d9da23656c73bc103df57709a4bdac0a0271a646f34"
 metafile = true
 
 [[files]]
@@ -187,5 +182,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
+hash = "d51ce9092dd3eea3016cf6ebad6624cb3a6fb7a13b22571abd9f702da53d6cdd"
 metafile = true

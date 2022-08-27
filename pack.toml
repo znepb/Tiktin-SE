@@ -1,12 +1,12 @@
-name = "Tiktin Se"
+name = "Tiktin SE"
 author = "znepb"
-version = "1.0.1"
+version = "1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dfc7340879420f51243626288fd78fadf8f23cb4abb3acfeee12f220ae177d40"
+hash = "aabd2a961d362b6b66ed0d65ee671c2fd2a58aad5fc21bea868c828e11adae67"
 
 [versions]
 fabric = "0.14.9"
